@@ -85,3 +85,15 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    text-align: center; /* Asegura que el texto esté centrado */
+}
+
+.header-img {
+    margin-left: 10px; /* Ajusta el margen según sea necesario */
+    height: 100px; /* Ajusta el tamaño según sea necesario */
+}
